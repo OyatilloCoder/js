@@ -1,0 +1,2 @@
+# js
+inshaolloh bolajak programmist
